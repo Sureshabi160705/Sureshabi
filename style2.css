@@ -1,0 +1,14 @@
+p{
+    display: inline;
+    background-color: rgb(1, 1, 10);
+    color: white;
+    font-size: 20px;
+}
+img{
+    display: inline;
+    padding-top: 20px;
+}
+marquee{
+    background-color: black;
+    color: white;
+}

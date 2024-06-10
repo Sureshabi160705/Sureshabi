@@ -1,0 +1,22 @@
+h1{
+    background-color: blue;
+    color: black;
+    display: inline;
+}
+img{
+    width: 161px;
+    height: 300px;
+    display: inline;
+}
+.box{
+    border-color: black;
+    border-width: 2px;
+    border-style: dotted;
+    display: inline;
+    width: 261px;
+    height: 200px;
+    padding-left: 20px;
+}
+.image{
+    text-align: center;
+}

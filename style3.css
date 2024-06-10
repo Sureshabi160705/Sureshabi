@@ -1,0 +1,18 @@
+h1{
+    background-color: rgb(78, 215, 68);
+    color: black;
+    display: inline;
+}
+h2{
+    background-color: rgb(210, 207, 48);
+    color: black;
+    display: inline;
+    margin-top: 10px;
+}
+audio{
+    display: block;
+    margin-top: 5px;
+}
+#one{
+    text-align: center;
+}
